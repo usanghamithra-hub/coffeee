@@ -1,0 +1,6 @@
+{
+  "name": "Gent & Bean Coffee Atelier",
+  "description": "Artisanal gentleman-coded coffee atelier, single-origin micro-lots, member guild, indexed search, and secure patron authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
